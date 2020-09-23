@@ -1,1 +1,2 @@
 # leda
+Leda is a monitoring platform for key data in the process of contract development, testing, deployment and operation, allowing developers to understand the status of the contract in real time. The data that needs to be monitored include: the size and increment of storage occupation, the calculation of the contract Rent mechanism, the statistics and analysis of transaction records, etc. Leda will also provide an alarm for insufficient funds during deployment, and also integrate with SDK tools.
